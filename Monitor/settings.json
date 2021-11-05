@@ -1,0 +1,8 @@
+{
+    "Settings": 
+        {
+            "Monitor Delay": 2000, 
+            "Webhook": "https://www.pasteYourWebhookHere.com"
+        }
+    
+}
